@@ -5,3 +5,4 @@ experimentos/*.png
 experimentos/*.jpg
 experimentos/*h5
 experimentos/*hdf5
+*.code-workspace
